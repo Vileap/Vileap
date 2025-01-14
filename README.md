@@ -1,6 +1,9 @@
 
+
+
 ## 🚀 About Me
-👋 Hi there, I'm Vileap Vong
+- 👋 Hi there, I'm Vileap Vong and Software Developer
+- 📫 How to reach me: v.vileap@dgc.gov.kh
 
 
 ## 🛠 Skills
